@@ -26,7 +26,7 @@
                 <TextBlock>Content 2</TextBlock>
             </mx:MxTabItem>
         </mx:MxTabControl>
-        <mxdg:DataGridControl>
+        <mxdg:DataGridControl AllowEditing="True" AutoGenerateColumns="True" ItemsSource="{Binding Path=Items}">
             
         </mxdg:DataGridControl>
     </StackPanel>

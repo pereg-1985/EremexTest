@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using System;
+using ReactiveUI;
 using Eremex.AvaloniaUI.Controls;
 
 namespace EremexTest;
